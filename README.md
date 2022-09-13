@@ -62,4 +62,24 @@ O projeto da segunda aula consiste na criação de um serviço para um repositó
 - A senha deverá ser criptografada.
 - Só é possível acessar as rotas da biblioteca com um token válido.
 
-Acesse mais detalhes do projeto [aqui](/bookstore-service/)
+### Terceira aula
+
+### Conteúdo
+
+1. NodeJS frameworks
+2. Banco de Dados NoSql
+3. Autenticação
+4. Criptografia
+5. Desenvolvimento do projeto da aula
+
+6. Evolução do projeto de aula
+7. Validação
+8. Documentação
+9. Typescript
+10. Testes
+
+### Projeto
+
+O projeto da terceira aula consiste na evolução do projeto da aula dois, inserindo novos endpoints na API, validação nos dados enviados na requisição, documentação, typescript e testes.
+
+Acesse mais detalhes do projeto [aqui](/bookstore-service-typescript/)
